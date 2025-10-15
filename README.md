@@ -9,7 +9,7 @@
 
 ### 游戏列表
 * [learn - 官方案例](http://game.webxinxin.com/learn/exam8.html)
-* [fruit - 切水果](http://game.webxinxin.com/fruit/)
+* [fruit - 切水果](http://games.my-icebox/fruit/)
 * [plane - 打飞机](http://game.webxinxin.com/plane/)
 * [flappybird - Flappybird](http://game.webxinxin.com/flappybird/)
 * [weiduan - 高仿微信聊天界面](http://game.webxinxin.com/?game=weiduan&id=1)
