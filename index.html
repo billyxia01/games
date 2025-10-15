@@ -34,10 +34,12 @@
             transform: translateY(-5px);
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
         }
+<img id="fallbackImage" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIwLjM1ZW0iPuWbvueJh+WKoOi9veWkqeWggjwvdGV4dD48L3N2Zz4=" style="display: none;">
+
         .game-image {
-            width: 100%;
-            height: 150px;
-            object-fit: cover; /* 确保图片覆盖整个区域，不变形 */
+            width: 50%;
+            height: 100px;
+            *object-fit: cover; /* 确保图片覆盖整个区域，不变形 */
         }
         .game-info {
             padding: 15px;
